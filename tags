@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/anth/source/100-days-of-code/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+#100DaysOfCode : Ressources Primaires	resources.md	/^# #100DaysOfCode : Ressources Primaires$/;"	c
+#100DaysOfCode Log - Round 1 - [Votre nom ici]	r1-log.md	/^# #100DaysOfCode Log - Round 1 - [Votre nom ici]$/;"	c
+(effacez-moi ou dé-commentez-moi)	log.md	/^##### (effacez-moi ou dé-commentez-moi)$/;"	T	subsection:100 Days Of Code - Journal""Day 0 : 25 juillet 2017 (Exemple 1)
+(effacez-moi ou dé-commentez-moi)	log.md	/^##### (effacez-moi ou dé-commentez-moi)$/;"	T	subsection:100 Days Of Code - Journal""Day 0: 25 juillet 2017 (Exemple 2)
+*Je coderai au moins une heure par jour durant les 100 prochains jours.*	rules.md	/^### *Je coderai au moins une heure par jour durant les 100 prochains jours.*$/;"	S	section:Règles du Challenge "100 Days Of Code"""Principal engagement
+100 Days Of Code - Journal	log.md	/^# 100 Days Of Code - Journal$/;"	c
+100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF	r2-log.md	/^# 100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF$/;"	c
+Articles	resources.md	/^### Articles$/;"	S	chapter:#100DaysOfCode : Ressources Primaires
+Articles Utiles	resources.md	/^## Articles Utiles$/;"	s	chapter:Ressources complémentaires sur le
+Autres Ressources	resources.md	/^## Autres Ressources$/;"	s	chapter:Ressources complémentaires sur le
+Books (both coding and non-coding)	resources.md	/^## Books (both coding and non-coding)$/;"	s	chapter:Ressources complémentaires sur le
+Coder	resources.md	/^### Coder$/;"	S	section:Ressources complémentaires sur le""Books (both coding and non-coding)
+Contenu	FAQ.md	/^## Contenu$/;"	s
+Contenus	README.md	/^## Contenus$/;"	s	chapter:J'ai rejoint le défi
+Contenus	resources.md	/^## Contenus$/;"	s	chapter:Ressources complémentaires sur le
+Contenus	rules.md	/^## Contenus$/;"	s	chapter:Règles du Challenge "100 Days Of Code"
+Date de Démarrage	rules.md	/^#### Date de Démarrage$/;"	t	subsection:Règles du Challenge "100 Days Of Code"""Principal engagement""*Je coderai au moins une heure par jour durant les 100 prochains jours.*
+Day 0 - R2D0: 27 avril 2021	r2-log.md	/^### Day 0 - R2D0: 27 avril 2021$/;"	S	chapter:100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF
+Day 0 : 25 juillet 2017 (Exemple 1)	log.md	/^### Day 0 : 25 juillet 2017 (Exemple 1)$/;"	S	chapter:100 Days Of Code - Journal
+Day 0: 25 juillet 2017 (Exemple 2)	log.md	/^### Day 0: 25 juillet 2017 (Exemple 2)$/;"	S	chapter:100 Days Of Code - Journal
+Day 1 : jeudi 27 juillet	log.md	/^### Day 1 : jeudi 27 juillet $/;"	S	chapter:100 Days Of Code - Journal
+FAQ :	FAQ.md	/^## FAQ :$/;"	s
+Idées pour faire que ce challenge soit plus efficace	rules.md	/^## Idées pour faire que ce challenge soit plus efficace$/;"	s	chapter:Règles du Challenge "100 Days Of Code"
+J'ai rejoint le défi	README.md	/^# J'ai rejoint le défi #100DaysOfCode.$/;"	c
+LOG	r2-log.md	/^### LOG $/;"	S	chapter:100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF
+Log	r1-log.md	/^## Log$/;"	s	chapter:#100DaysOfCode Log - Round 1 - [Votre nom ici]
+Non Codeur	resources.md	/^### Non Codeur $/;"	S	section:Ressources complémentaires sur le""Books (both coding and non-coding)
+Note	README.md	/^## Note$/;"	s	chapter:J'ai rejoint le défi
+Podcasts	resources.md	/^### Podcasts$/;"	S	chapter:#100DaysOfCode : Ressources Primaires
+Principal engagement	rules.md	/^## Principal engagement$/;"	s	chapter:Règles du Challenge "100 Days Of Code"
+Projets et Idées	resources.md	/^## Projets et Idées $/;"	s	chapter:Ressources complémentaires sur le
+R1D1	r1-log.md	/^### R1D1 $/;"	S	section:#100DaysOfCode Log - Round 1 - [Votre nom ici]""Log
+R1D2	r1-log.md	/^### R1D2$/;"	S	section:#100DaysOfCode Log - Round 1 - [Votre nom ici]""Log
+Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires sur le #100DaysOfCode$/;"	c
+Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
+Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
+Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
