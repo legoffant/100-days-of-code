@@ -46,3 +46,5 @@ Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires 
 Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
 Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
+print_plus	code/grid.py	/^def print_plus():$/;"	f
+print_space	code/grid.py	/^def print_space():$/;"	f
