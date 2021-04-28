@@ -46,6 +46,15 @@ Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires 
 Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
 Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
+anth	code/flower.py	/^anth = turtle.Turtle() $/;"	v
+arc	code/polygon.py	/^def arc(t, r, angle):$/;"	f
+bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
+circle	code/polygon.py	/^def circle(t, r):$/;"	f
+ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
+flower	code/flower.py	/^def flower(t, n, r, angle):$/;"	f
+petal	code/flower.py	/^def petal(t, r, angle): #t: turtle r:radius arc$/;"	f
+polygon	code/polygon.py	/^def polygon(t, n, length):$/;"	f
+polyline	code/polygon.py	/^def polyline(t, n, length, angle):$/;"	f
 print_beam	code/grid.py	/^def print_beam():$/;"	f
 print_beams	code/grid.py	/^def print_beams():$/;"	f
 print_deux	code/grid.py	/^def print_deux(f):$/;"	f
@@ -54,3 +63,5 @@ print_post	code/grid.py	/^def print_post():$/;"	f
 print_posts	code/grid.py	/^def print_posts():$/;"	f
 print_quatre	code/grid.py	/^def print_quatre(f):$/;"	f
 print_row	code/grid.py	/^def print_row():$/;"	f
+radius	code/polygon.py	/^    radius = 100$/;"	v
+square	code/polygon.py	/^def square(t, length):$/;"	f
