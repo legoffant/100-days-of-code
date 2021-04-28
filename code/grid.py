@@ -10,17 +10,11 @@ print("+++")
 
 #mini grille avec des fonctions
 
-def print_plus():
-    print("+", end=' ')
+def print_beam():
+    print("+----", end=' ')
 
-def print_space():
-    print(" ", end=' ')
-
-def print_tiret():
-    print("-", end=' ')
-
-def print_bar():
-    print("|", end=' ')
+def print_post():
+    print("|    ", end=' ')
 
 def print_deux(f):
     f()
@@ -30,4 +24,20 @@ def print_quatre(f):
     print_deux(f)
     print_deux(f)
 
+def print_beams():
+    print_deux(print_beam)
+    print("+")
 
+def print_posts():
+    print_deux(print_post)
+    print("|")
+
+def print_row():
+    print_beams()
+    print_quatre(print_posts)
+
+def print_grid():
+    print_deux(print_row)
+    print_beams()
+
+print_grid()

@@ -46,9 +46,11 @@ Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires 
 Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
 Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
-print_bar	code/grid.py	/^def print_bar():$/;"	f
+print_beam	code/grid.py	/^def print_beam():$/;"	f
+print_beams	code/grid.py	/^def print_beams():$/;"	f
 print_deux	code/grid.py	/^def print_deux(f):$/;"	f
-print_plus	code/grid.py	/^def print_plus():$/;"	f
+print_grid	code/grid.py	/^def print_grid():$/;"	f
+print_post	code/grid.py	/^def print_post():$/;"	f
+print_posts	code/grid.py	/^def print_posts():$/;"	f
 print_quatre	code/grid.py	/^def print_quatre(f):$/;"	f
-print_space	code/grid.py	/^def print_space():$/;"	f
-print_tiret	code/grid.py	/^def print_tiret():$/;"	f
+print_row	code/grid.py	/^def print_row():$/;"	f
