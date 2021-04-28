@@ -16,4 +16,18 @@ def print_plus():
 def print_space():
     print(" ", end=' ')
 
+def print_tiret():
+    print("-", end=' ')
+
+def print_bar():
+    print("|", end=' ')
+
+def print_deux(f):
+    f()
+    f()
+
+def print_quatre(f):
+    print_deux(f)
+    print_deux(f)
+
 
