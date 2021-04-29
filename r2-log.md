@@ -13,3 +13,14 @@ Le journal de mon challenge commencé le 27 avril 2021.
 **Lien(s) à travailler**
 1. [Livre en français "pensez en python"](https://allen-downey.developpez.com/livres/python/pensez-python/)
 2. [Exemple de code du livre exo grid.py](https://github.com/AllenDowney/ThinkPython2/blob/master/code/grid.py)
+
+### Day 1 - R2D1: 28 avril 2021
+
+**Progrès du jour**:Faire une grille et dessiner une fleur
+
+**Pensées :** Je me dépatouille pour comprendre l'ordre d'appel de fonction, c'est un peu confus. Sinon j'ai dessiné ma première fleur avec le module turtle de python. J'ai retapé le code et chercher à le comprendre, cela introduisait la gestion de fichier multiple et de fonction en l'occurence pour construire un arc de cercle.
+
+**Lien(s) à travailler**
+1. [Dessiner un polygon](https://github.com/AllenDowney/ThinkPython2/blob/master/code/polygon.py)
+2. [Dessiner une fleur](https://github.com/AllenDowney/ThinkPython2/blob/master/code/flower.py)
+
