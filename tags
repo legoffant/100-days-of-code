@@ -51,8 +51,11 @@ anth	code/flower.py	/^anth = turtle.Turtle() $/;"	v
 arc	code/polygon.py	/^def arc(t, r, angle):$/;"	f
 bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
 circle	code/polygon.py	/^def circle(t, r):$/;"	f
+decale_vers_la_gauche	code/koch.py	/^def decale_vers_la_gauche(largeur):$/;"	f
+decale_vers_le_haut	code/koch.py	/^def decale_vers_le_haut(hauteur):$/;"	f
 ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
 flower	code/flower.py	/^def flower(t, n, r, angle):$/;"	f
+koch	code/koch.py	/^def koch(n, longueur):$/;"	f
 petal	code/flower.py	/^def petal(t, r, angle): #t: turtle r:radius arc$/;"	f
 polygon	code/polygon.py	/^def polygon(t, n, length):$/;"	f
 polyline	code/polygon.py	/^def polyline(t, n, length, angle):$/;"	f
