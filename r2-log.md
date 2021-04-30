@@ -4,6 +4,7 @@ Le journal de mon challenge commencé le 27 avril 2021.
 
 ### LOG 
 
+
 ### Day 0 - R2D0: 27 avril 2021
 
 **Progrès du jour**:Edition de liens et de ressources python
@@ -23,4 +24,13 @@ Le journal de mon challenge commencé le 27 avril 2021.
 **Lien(s) à travailler**
 1. [Dessiner un polygon](https://github.com/AllenDowney/ThinkPython2/blob/master/code/polygon.py)
 2. [Dessiner une fleur](https://github.com/AllenDowney/ThinkPython2/blob/master/code/flower.py)
+
+### Day 2 - R2D2: 29 avril 2021
+
+**Progrès du jour:** Dessiner un flocon avec les courbes de Koch
+
+**Pensées :** Ce sont de petits algo à utiliser avec le module turtle pour dessiner un courbe de Koch, il est nécessaire de répeter la fonction koch() 3 fois pour obtenir un flocon de Koch.
+
+**Lien(s) à travailler**
+1. [flocon de Koch code](https://github.com/AllenDowney/ThinkPython2/blob/master/code/koch.py)
 

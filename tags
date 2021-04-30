@@ -31,6 +31,7 @@ Day 0 : 25 juillet 2017 (Exemple 1)	log.md	/^### Day 0 : 25 juillet 2017 (Exempl
 Day 0: 25 juillet 2017 (Exemple 2)	log.md	/^### Day 0: 25 juillet 2017 (Exemple 2)$/;"	S	chapter:100 Days Of Code - Journal
 Day 1 - R2D1: 28 avril 2021	r2-log.md	/^### Day 1 - R2D1: 28 avril 2021$/;"	S	chapter:100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF
 Day 1 : jeudi 27 juillet	log.md	/^### Day 1 : jeudi 27 juillet $/;"	S	chapter:100 Days Of Code - Journal
+Day 2 - R2D2: 29 avril 2021	r2-log.md	/^### Day 2 - R2D2: 29 avril 2021$/;"	S	chapter:100 Days Of Code - Journal log - round 2 - Anthony JR. LE GOFF
 FAQ :	FAQ.md	/^## FAQ :$/;"	s
 Idées pour faire que ce challenge soit plus efficace	rules.md	/^## Idées pour faire que ce challenge soit plus efficace$/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 J'ai rejoint le défi	README.md	/^# J'ai rejoint le défi #100DaysOfCode.$/;"	c
