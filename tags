@@ -53,6 +53,8 @@ arc	code/polygon.py	/^def arc(t, r, angle):$/;"	f
 bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
 circle	code/polygon.py	/^def circle(t, r):$/;"	f
 ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
+estime_pi	code/pi.py	/^def estime_pi():$/;"	f
+factoriel	code/pi.py	/^def factoriel(n):$/;"	f
 flocon	code/koch.py	/^def flocon(n,longueur):$/;"	f
 flower	code/flower.py	/^def flower(t, n, r, angle):$/;"	f
 koch	code/koch.py	/^def koch(n, longueur):$/;"	f
