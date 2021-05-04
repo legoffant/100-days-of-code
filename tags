@@ -71,3 +71,4 @@ print_quatre	code/grid.py	/^def print_quatre(f):$/;"	f
 print_row	code/grid.py	/^def print_row():$/;"	f
 radius	code/polygon.py	/^    radius = 100$/;"	v
 square	code/polygon.py	/^def square(t, length):$/;"	f
+trouver	code/recherche.py	/^def trouver(mot, lettre):$/;"	f
