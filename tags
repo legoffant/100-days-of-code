@@ -49,17 +49,22 @@ Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires 
 Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
 Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
+afficher_mot	code/list-scrabble.py	/^def afficher_mot(mot):$/;"	f
 anth	code/flower.py	/^anth = turtle.Turtle() $/;"	v
 arc	code/polygon.py	/^def arc(t, r, angle):$/;"	f
 bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
 circle	code/polygon.py	/^def circle(t, r):$/;"	f
+compter_mot	code/list-scrabble.py	/^def compter_mot(nombre):$/;"	f
 compteur	code/compteur.py	/^def compteur(mot, a):$/;"	f
+compteur	code/list-scrabble.py	/^    compteur = 0$/;"	v
 ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
 estime_pi	code/pi.py	/^def estime_pi():$/;"	f
 factoriel	code/pi.py	/^def factoriel(n):$/;"	f
+fichier	code/list-scrabble.py	/^fichier = open("scrabble.txt", "r", encoding="utf-8") $/;"	v
 flocon	code/koch.py	/^def flocon(n,longueur):$/;"	f
 flower	code/flower.py	/^def flower(t, n, r, angle):$/;"	f
 koch	code/koch.py	/^def koch(n, longueur):$/;"	f
+mot	code/list-scrabble.py	/^    mot = ligne.strip()$/;"	v
 petal	code/flower.py	/^def petal(t, r, angle): #t: turtle r:radius arc$/;"	f
 polygon	code/polygon.py	/^def polygon(t, n, length):$/;"	f
 polyline	code/polygon.py	/^def polyline(t, n, length, angle):$/;"	f
