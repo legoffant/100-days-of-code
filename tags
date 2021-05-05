@@ -56,7 +56,7 @@ bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
 circle	code/polygon.py	/^def circle(t, r):$/;"	f
 compter_mot	code/list-scrabble.py	/^def compter_mot(nombre):$/;"	f
 compteur	code/compteur.py	/^def compteur(mot, a):$/;"	f
-compteur	code/list-scrabble.py	/^    compteur = 0$/;"	v
+compteur	code/list-scrabble.py	/^compteur = 0$/;"	v
 ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
 estime_pi	code/pi.py	/^def estime_pi():$/;"	f
 factoriel	code/pi.py	/^def factoriel(n):$/;"	f

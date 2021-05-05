@@ -12,14 +12,17 @@ def afficher_mot(mot):
 
 
 fichier = open("scrabble.txt", "r", encoding="utf-8") 
+compteur = 0
 for ligne in fichier:
     mot = ligne.strip()
-    compteur = 0
-    compteur += compteur
-    if compteur == 20:
-        break
-    afficher_mot(mot)
-    
+    compteur += 1 + mot 
+    print("ici!")
+    print(compteur)
+    if compteur <= 20 and len(mot) >= 14:
+        print(mot)
+    print("ici2")
+
+
 
 
 
