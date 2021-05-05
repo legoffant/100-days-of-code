@@ -1,26 +1,16 @@
 #!/usr/bin/python
-
-
-def compter_mot(nombre):
-    compteur = 0
-    while (compteur <= nombre):
-        compteur += compteur
-
-def afficher_mot(mot):
-    if len(mot) >= 14:
-        print(mot)
-
+#-*- coding:utf-8 -*-
 
 fichier = open("scrabble.txt", "r", encoding="utf-8") 
 compteur = 0
 for ligne in fichier:
     mot = ligne.strip()
-    compteur += 1 + mot 
-    print("ici!")
-    print(compteur)
-    if compteur <= 20 and len(mot) >= 14:
+    if  len(mot) >= 14:
         print(mot)
-    print("ici2")
+        compteur += 1
+        if compteur == 21:
+            break
+
 
 
 

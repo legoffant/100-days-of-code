@@ -49,12 +49,10 @@ Ressources complémentaires sur le	resources.md	/^# Ressources complémentaires 
 Règles du Challenge "100 Days Of Code"	rules.md	/^# Règles du Challenge "100 Days Of Code"$/;"	c
 Règles supplémentaires	rules.md	/^## Règles supplémentaires $/;"	s	chapter:Règles du Challenge "100 Days Of Code"
 Si vous décider de nous rejoindre :	README.md	/^## Si vous décider de nous rejoindre : $/;"	s	chapter:J'ai rejoint le défi
-afficher_mot	code/list-scrabble.py	/^def afficher_mot(mot):$/;"	f
 anth	code/flower.py	/^anth = turtle.Turtle() $/;"	v
 arc	code/polygon.py	/^def arc(t, r, angle):$/;"	f
 bob	code/polygon.py	/^    bob = turtle.Turtle()$/;"	v
 circle	code/polygon.py	/^def circle(t, r):$/;"	f
-compter_mot	code/list-scrabble.py	/^def compter_mot(nombre):$/;"	f
 compteur	code/compteur.py	/^def compteur(mot, a):$/;"	f
 compteur	code/list-scrabble.py	/^compteur = 0$/;"	v
 ecran	code/flower.py	/^ecran = turtle.Screen()$/;"	v
