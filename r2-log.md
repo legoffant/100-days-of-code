@@ -34,3 +34,11 @@ Le journal de mon challenge commencé le 27 avril 2021.
 **Lien(s) à travailler**
 1. [flocon de Koch code](https://github.com/AllenDowney/ThinkPython2/blob/master/code/koch.py)
 
+### Day 3 - R2D3: 4 Mai 2021
+
+**Progrès du jour:** Ecrire une série infinie et des fonctions de recherches, compteurs
+
+**Pensées :** 2 jours de pause avec la fête du travail, retour à la normal. Je lis toujours "Pensez en python", je progresse. Il y avait un exercice d'estimation de pi qui avait pour but de savoir mettre en algo une serie infinie incluant une fonction factoriel. J'ai du mal a trouver tout seul la solution, je regarde la solution.
+
+**Lien(s) à travailler**
+1. [estimation de pi](https://github.com/AllenDowney/ThinkPython2/blob/master/code/pi.py)
