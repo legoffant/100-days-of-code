@@ -11,4 +11,4 @@ def trouver(mot, lettre):
         index = index + 1
     return - 1
 
-trouver(test, e)
+trouver("test",'e')
