@@ -42,3 +42,13 @@ Le journal de mon challenge commencé le 27 avril 2021.
 
 **Lien(s) à travailler**
 1. [estimation de pi](https://github.com/AllenDowney/ThinkPython2/blob/master/code/pi.py)
+
+### Day 4 - R2D4: 5 mai 2021
+
+**Progrès du jour:** Travail avec une liste de mot (wordlist) pour trier et selectionner
+
+**Pensées :** Il m'a fallut quelques heures pour faire un tout petit algorithme de tri, ou il fallait selectionner les 20 premiers mots de plus de 14 lettres. Je l'ai fait sans avoir de solution sous les yeux. J'ai googlé un peu sans résultat.
+
+**Lien(s) à travailler**
+NONE
+
